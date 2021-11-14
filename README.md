@@ -19,6 +19,10 @@ Below are some examples of my portfolio work:
 
 #### ML
 
+* [Transfer Learning - Training Faster-RCNN using TFOD](https://github.com/cheeyeo/tfod_rcnn_example)
+
+* [TFOD Toolkit](https://github.com/m1l0ai/m1l0-tfod)
+
 * [Transfer Learning - Fine Tuning example](https://github.com/cheeyeo/transfer_learning_portfolio_example)
 
 * [Transfer Learning - Feature Extraction example](https://github.com/cheeyeo/transfer_learning_portfolio_example_2)
