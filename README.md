@@ -39,9 +39,13 @@ Below are some examples of my portfolio work:
 
 * [Deploying gRPC on ALB](https://github.com/cheeyeo/grpc_aws_alb_example)
 
-
 * [Docker Image builder pipeline component](https://hub.docker.com/r/m1l0/imagebuilder)
 
 * [INotify S3 container](https://hub.docker.com/r/m1l0/artifactsv2)
 
 * [OpenCV dockerhub container](https://hub.docker.com/r/m1l0/opencv)
+
+
+#### MLOPS examples
+
+* [Docker Image builder pipeline component](https://github.com/m1l0ai/m1l0_image_builder)
