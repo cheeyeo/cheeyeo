@@ -39,6 +39,9 @@ Below are some examples of my portfolio work:
 
 * [Deploying gRPC on ALB](https://github.com/cheeyeo/grpc_aws_alb_example)
 
-* [INotify S3 container](https://hub.docker.com/repository/docker/m1l0/artifactsv2)
 
-* [OpenCV dockerhub container](https://hub.docker.com/repository/docker/m1l0/opencv)
+* [Docker Image builder pipeline component](https://hub.docker.com/r/m1l0/imagebuilder)
+
+* [INotify S3 container](https://hub.docker.com/r/m1l0/artifactsv2)
+
+* [OpenCV dockerhub container](https://hub.docker.com/r/m1l0/opencv)
