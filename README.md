@@ -5,9 +5,9 @@ I am a software developer / writer with prior commercial experience working from
 
 My background is in computer science and I have been specializing in web and software development for the past 10 years.
 
-I decided to take the plunge and retrain in the fields of Machine Learning and DevOps.
+I decided to take the plunge and retrain in the fields of Machine Learning, Cloud Technologies and DevOps.
 
-I write about my own research and development work at my personal blog: https://cheeyeo.uk
+I write about my own research and development work at my personal blog: https://cheeyeo.dev
 
 My professional profile can be found at https://uk.linkedin.com/in/cheeyeo
 
