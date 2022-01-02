@@ -3,9 +3,9 @@
 
 I am a software developer / writer with prior commercial experience working from startups through to corporations. 
 
-My background is in computer science and I have been specializing in web and software development for the past 10 years.
+My background is in computer science and I have been specializing in software development for the past 10 years.
 
-I decided to take the plunge and retrain in the fields of Machine Learning, Cloud Technologies and DevOps.
+In 2019, I decided to take the plunge and retrain in the fields of Machine Learning, Cloud Technologies and DevOps.
 
 I write about my own research and development work at my personal blog: https://cheeyeo.dev
 
@@ -36,6 +36,7 @@ Below are some examples of my portfolio work:
 * [NLP - Language Translation with Attention](https://github.com/cheeyeo/neural-machine-translation)
 
 * [Collection of Jupyter Notebooks from learning (old)](https://github.com/cheeyeo/Machine_learning_portfolio)
+
 
 #### DevOps examples
 
