@@ -19,6 +19,8 @@ Below are some examples of my portfolio work:
 
 #### ML
 
+* [DCGAN for Fashion](https://github.com/cheeyeo/tf_dcgan)
+
 * [Transfer Learning - Training Faster-RCNN using TFOD](https://github.com/cheeyeo/tfod_rcnn_example)
 
 * [TFOD Toolkit](https://github.com/m1l0ai/m1l0-tfod)
