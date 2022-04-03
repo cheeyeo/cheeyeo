@@ -19,7 +19,11 @@ Below are some examples of my portfolio work:
 
 #### ML
 
-* [DCGAN for Fashion](https://github.com/cheeyeo/tf_dcgan)
+* [Self Attention GAN Example](https://github.com/cheeyeo/self_attention_gan)
+
+* [WGAN Example](https://github.com/cheeyeo/tf_wgan)
+
+* [DCGAN Example](https://github.com/cheeyeo/tf_dcgan)
 
 * [Transfer Learning - Training Faster-RCNN using TFOD](https://github.com/cheeyeo/tfod_rcnn_example)
 
