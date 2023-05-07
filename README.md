@@ -42,7 +42,10 @@ Below are some examples of my portfolio work:
 * [Collection of Jupyter Notebooks from learning (old)](https://github.com/cheeyeo/Machine_learning_portfolio)
 
 
-#### DevOps examples
+#### DevOps & Cloud examples
+* [AWS S3 pipe utility](https://github.com/cheeyeo/AWS_S3_PIPES)
+
+* [OpenCV dockerhub container](https://hub.docker.com/r/m1l0/opencv)
 
 * [Tensorflow Serving example](https://github.com/cheeyeo/tensorflow_serving_example)
 
@@ -53,8 +56,6 @@ Below are some examples of my portfolio work:
 * [Docker Image builder pipeline component](https://hub.docker.com/r/m1l0/imagebuilder)
 
 * [INotify S3 container](https://hub.docker.com/r/m1l0/artifactsv2)
-
-* [OpenCV dockerhub container](https://hub.docker.com/r/m1l0/opencv)
 
 
 #### MLOPS examples
