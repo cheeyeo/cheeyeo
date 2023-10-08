@@ -19,6 +19,8 @@ Below are some examples of my portfolio work:
 
 #### ML
 
+* [Sam-MED2D](https://github.com/cheeyeo/SamMed2D_Custom)
+
 * [UNet for semantic segmentation](https://github.com/cheeyeo/UNET_tutorial)
 
 * [PSPNet for semantic segmentation](https://github.com/cheeyeo/PSPNET_tutorial)
