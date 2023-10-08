@@ -5,19 +5,23 @@ I am a software developer / writer with prior commercial experience working from
 
 My background is in computer science and I have been specializing in software development for the past 10 years.
 
-In 2019, I decided to take the plunge and retrain in the fields of Machine Learning, Cloud Technologies and DevOps.
+In 2019, I decided to take the plunge and retrain in the fields of Machine Learning, Cloud Engineering and DevOps.
 
 I write about my own research and development work at my personal blog: https://cheeyeo.dev
 
 My professional profile can be found at https://uk.linkedin.com/in/cheeyeo
 
 
-I am also trying to create open source software to empower data science / ML workflows and have created an organization to publish some of this work: https://github.com/orgs/m1l0ai
+I am also trying to create open source software for data science / ML workflows and have created an organization to publish some of this work: https://github.com/orgs/m1l0ai
 
 
 Below are some examples of my portfolio work:
 
 #### ML
+
+* [UNet for semantic segmentation](https://github.com/cheeyeo/UNET_tutorial)
+
+* [PSPNet for semantic segmentation](https://github.com/cheeyeo/PSPNET_tutorial)
 
 * [Self Attention GAN Example](https://github.com/cheeyeo/self_attention_gan)
 
