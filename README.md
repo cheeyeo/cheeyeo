@@ -49,6 +49,8 @@ Below are some examples of my portfolio work:
 
 
 #### DevOps & Cloud examples
+* [AWS CDN Private S3 Origin-Access-Control Terraform example](https://github.com/cheeyeo/aws_cdn_oac_example)
+  
 * [AWS S3 pipe utility](https://github.com/cheeyeo/AWS_S3_PIPES)
 
 * [OpenCV dockerhub container](https://hub.docker.com/r/m1l0/opencv)
