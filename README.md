@@ -50,6 +50,8 @@ Below are some examples of my portfolio work:
 
 
 #### DevOps & Cloud examples
+* [AWS Lambda Web application with Terraform](https://github.com/cheeyeo/aws_lambda_web_application)
+  
 * [AWS CDN Private S3 Origin-Access-Control Terraform example](https://github.com/cheeyeo/aws_cdn_oac_example)
   
 * [AWS S3 pipe utility](https://github.com/cheeyeo/AWS_S3_PIPES)
