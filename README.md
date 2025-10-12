@@ -8,12 +8,9 @@ In 2019, I decided to take the plunge and retrain in the fields of Machine Learn
 
 Since 2024, I am a certified AWS solutions architect professional: https://www.credly.com/badges/90284ec4-aa24-4fb9-8b43-c6f7437be1e7/public_url
 
-I write about my own research and development work at my personal blog: https://cheeyeo.dev
+I write about my own research and development work at my personal blog: https://cheeyeo.xyz
 
 My professional profile can be found at https://uk.linkedin.com/in/cheeyeo
-
-
-I am also trying to create open source software for data science / ML workflows and have created an organization to publish some of this work: https://github.com/orgs/m1l0ai
 
 
 Below are some examples of my portfolio work:
@@ -68,7 +65,3 @@ Below are some examples of my portfolio work:
 
 * [INotify S3 container](https://hub.docker.com/r/m1l0/artifactsv2)
 
-
-#### MLOPS examples
-
-* [Docker Image builder pipeline component](https://github.com/m1l0ai/m1l0_image_builder)
